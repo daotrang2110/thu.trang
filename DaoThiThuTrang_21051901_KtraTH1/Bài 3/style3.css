@@ -1,0 +1,20 @@
+.size
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+.text
+{color:rgb(180, 180, 180);}
+.tag
+{
+    text-align:center;
+    background-color: rgb(77, 189, 233);
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-right: 10px;
+    font-size:14px;
+  }
